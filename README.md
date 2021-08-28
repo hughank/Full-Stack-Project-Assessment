@@ -1,4 +1,4 @@
-# Video Recommendation App Test
+# Video Recommendation App
 
 ## Background
 
